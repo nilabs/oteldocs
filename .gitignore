@@ -1,5 +1,7 @@
 # Собранный сайт
 site/
+baсkups/
+deploy.sh
 
 # Python
 __pycache__/
